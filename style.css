@@ -2,4 +2,15 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    
+}
+
+.bg{
+    background-color: lightblue;
+}
+
+.input{
+    border-radius: 10px;
+    height: 40px;
+    width: 530px;
 }
